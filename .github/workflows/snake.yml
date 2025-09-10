@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule: 
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 0 * * *"  # runs daily at midnight
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -16,9 +16,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Shrinidhi972004
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
