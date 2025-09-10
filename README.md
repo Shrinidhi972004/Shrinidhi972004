@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrinidhi Upadhyaya</h1>
-<h3 align="center">🚀 DevOps Engineer | SRE | Full-Stack Developer | Cloud & Security Enthusiast</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud & Security Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=DevOps+%7C+SRE;Spring+Boot+Developer;Cloud-Native+Engineer;Always+Learning+%F0%9F%92%AA" />
@@ -9,14 +9,14 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Final-year **B.E. in Information Science & Engineering**  
-- 🌱 Currently learning **Kubernetes | SRE Practices | Advanced Java**  
+- 🌱 Currently learning **Kubernetes | SRE Practices**  
 - 🔭 Working on:
   - **Image and video gallery using Mern Stack and AWS S3 for storage**  
   - **Unified Application Monitoring Suite**  
   - **TrustKey – Passwordless Authentication System**  
   - **Multi-Cloud Cost Optimizer**
 - 👯 Open to collaborations on **Open-Source DevOps/SRE Tools**  
-- 💬 Ask me about **DevOps, Cloud, Spring Boot, Security**  
+- 💬 Ask me about **DevOps, Cloud, Security**  
 - ⚡ Fun fact: I lift weights when not lifting containers 🏋️‍♂️🐳  
 
 ---
