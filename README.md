@@ -10,10 +10,11 @@
 ## 🧑‍💻 About Me
 - 🎓 Final-year **B.E. in Information Science & Engineering**  
 - 🌱 Currently learning **Kubernetes | SRE Practices | Advanced Java**  
-- 🔭 Working on:  
+- 🔭 Working on:
+  - **Image and video gallery using Mern Stack and AWS S3 for storage**  
   - **Unified Application Monitoring Suite**  
-  - **TrustKey – Passwordless Authentication for SAP**  
-  - **Multi-Cloud Cost Optimizer**  
+  - **TrustKey – Passwordless Authentication System**  
+  - **Multi-Cloud Cost Optimizer**
 - 👯 Open to collaborations on **Open-Source DevOps/SRE Tools**  
 - 💬 Ask me about **DevOps, Cloud, Spring Boot, Security**  
 - ⚡ Fun fact: I lift weights when not lifting containers 🏋️‍♂️🐳  
