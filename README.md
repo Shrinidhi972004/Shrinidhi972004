@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrinidhi Upadhyaya</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud & Security Enthusiast</h3>
+<h3 align="center">🚀 DevOps Engineer | SRE | Cloud & Security Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=DevOps+%7C+SRE;Spring+Boot+Developer;Cloud-Native+Engineer;Always+Learning+%F0%9F%92%AA" />
@@ -9,14 +9,14 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Final-year **B.E. in Information Science & Engineering**  
-- 🌱 Currently learning **Kubernetes | SRE Practices**  
+- 🌱 Currently learning **Kubernetes | SRE Practices | Advanced Java**  
 - 🔭 Working on:
-  - **Image and video gallery using Mern Stack and AWS S3 for storage**  
+  - **Image & Video Gallery (MERN + AWS S3)**  
   - **Unified Application Monitoring Suite**  
   - **TrustKey – Passwordless Authentication System**  
-  - **Multi-Cloud Cost Optimizer**
+  - **Multi-Cloud Cost Optimizer**  
 - 👯 Open to collaborations on **Open-Source DevOps/SRE Tools**  
-- 💬 Ask me about **DevOps, Cloud, Security**  
+- 💬 Ask me about **DevOps, Cloud, Security, Spring Boot**  
 - ⚡ Fun fact: I lift weights when not lifting containers 🏋️‍♂️🐳  
 
 ---
@@ -24,17 +24,17 @@
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,python" />
 </p>
 
 **Cloud & DevOps**  
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,githubactions,linux" />
 </p>
 
 **Databases & Monitoring**  
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,grafana,prometheus" />
 </p>
 
@@ -62,7 +62,11 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Shrinidhi972004/Shrinidhi972004/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shrinidhi972004/Shrinidhi972004/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shrinidhi972004/Shrinidhi972004/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/Shrinidhi972004/Shrinidhi972004/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
