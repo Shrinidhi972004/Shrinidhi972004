@@ -30,7 +30,7 @@
 
 **Cloud & DevOps**  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,githubactions,linux,argocd" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,githubactions,linux," />
 </p>
 
 **Databases & Monitoring**  
