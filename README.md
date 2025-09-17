@@ -25,7 +25,7 @@
 
 **Languages & Frameworks**  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,python" />
+<img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 **Cloud & DevOps**  
