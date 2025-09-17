@@ -25,7 +25,7 @@
 
 **Languages & Frameworks**  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,bash,yml,python" />
+<img src="https://skillicons.dev/icons?i=java,bash,python" />
 </p>
 
 **Cloud & DevOps**  
