@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrinidhi Upadhyaya</h1>
-<h3 align="center">🚀 DevOps Engineer | SRE | Cloud & Security Enthusiast</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud & Security Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=DevOps+%7C+SRE;Spring+Boot+Developer;Cloud-Native+Engineer;Always+Learning+%F0%9F%92%AA" />
@@ -8,8 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Final-year **B.E. in Information Science & Engineering**  
-- 🌱 Currently learning **Kubernetes | SRE Practices | Advanced Java**  
+- 🎓 Final-year **B.E. in Information Science & Engineering**    
 - 🔭 Working on:
   - **Image & Video Gallery (MERN + AWS S3)**  
   - **Unified Application Monitoring Suite**  
